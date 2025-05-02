@@ -7,11 +7,11 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23FFA500&center=true&width=280&height=50">
 </p>
-<p align="center">
-  <a href="https://github.com/gui20m?tab=repositories" target="_blank">
+<p>
+  <a align="center" href="https://github.com/gui20m?tab=repositories" target="_blank">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-FFA500?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
-  <a href="https://github.com/gui20m?tab=projects" target="_blank">
+  <a align="center" href="https://github.com/gui20m?tab=projects" target="_blank">
     <img alt="Projects" title="Projects" src="https://custom-icon-badges.demolab.com/badge/-Projects-FF8C00?style=for-the-badge&logoColor=white&logo=project"/>
   </a>
 </p>
