@@ -21,13 +21,6 @@
 
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gui20m&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFA500&sideLabels=FFA500" alt="gui20m" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,haskell,py,js,php&theme=dark" />
