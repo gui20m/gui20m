@@ -16,6 +16,8 @@
   </a>
 </p>
 
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,haskell,py,js,php&theme=dark" />
