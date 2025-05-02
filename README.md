@@ -8,9 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23FFA500&center=true&width=280&height=50">
 </p>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=gui20m&color=orange">
-</p>
-<p align="center">
   <a href="https://github.com/gui20m?tab=repositories" target="_blank">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-FFA500?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
