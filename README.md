@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,haskell,py,js,php,mysql,git,html,css,matlab,postman&theme=dark&perline=15" />
+  <img src="https://skillicons.dev/icons?i=java,c,haskell,py,js,php,mysql,git,html,css,matlab,postman,vercel&theme=dark&perline=15" />
 </p>
 
 ---
